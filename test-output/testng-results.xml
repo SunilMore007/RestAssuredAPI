@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-02-10T19:26:31 IST" name="Default suite" finished-at="2022-02-10T19:26:37 IST" duration-ms="5690">
+  <suite started-at="2022-02-17T19:00:34 IST" name="Default suite" finished-at="2022-02-17T19:00:40 IST" duration-ms="5139">
     <groups>
     </groups>
-    <test started-at="2022-02-10T19:26:31 IST" name="Default test" finished-at="2022-02-10T19:26:37 IST" duration-ms="5690">
-      <class name="comCrudOperationsDemo.PatchDemo">
-        <test-method signature="test_Patch()[pri:0, instance:comCrudOperationsDemo.PatchDemo@2dde1bff]" started-at="2022-02-10T19:26:31 IST" name="test_Patch" finished-at="2022-02-10T19:26:37 IST" duration-ms="5665" status="PASS">
+    <test started-at="2022-02-17T19:00:34 IST" name="Default test" finished-at="2022-02-17T19:00:40 IST" duration-ms="5139">
+      <class name="com.RestAssuredDemo.GetRequest_10">
+        <test-method signature="Test001()[pri:0, instance:com.RestAssuredDemo.GetRequest_10@5f9b2141]" started-at="2022-02-17T19:00:34 IST" name="Test001" finished-at="2022-02-17T19:00:39 IST" duration-ms="5071" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test_Patch -->
-      </class> <!-- comCrudOperationsDemo.PatchDemo -->
+        </test-method> <!-- Test001 -->
+      </class> <!-- com.RestAssuredDemo.GetRequest_10 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
